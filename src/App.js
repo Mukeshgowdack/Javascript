@@ -10,6 +10,7 @@ const App = () => {
       < ContactCard />
       < ContactCard />
       < ContactCard />
+      < ContactCard />
     </div>
   )
   
